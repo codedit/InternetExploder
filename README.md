@@ -40,7 +40,7 @@ Screenshots
 --------------------------
 ![1](/Screenshots/1.png "1")
 ![2](/Screenshots/2.png "2")
-![3](/Screenshots/1.png "3")
+![3](/Screenshots/3.png "3")
 
 
 
