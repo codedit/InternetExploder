@@ -15,17 +15,37 @@ TODO
 --------------------------------
 
 *Implement downloads
+
 *Implement favorites
+
 *Implement history
+
 *Implement everything which should be in the top menu bar
+
 *Add support for pop-up windows
+
 *Add decent error pages
+
 *Make a working crash reporter
+
 *Add a settings class to store preferences like the homepage.
+
+*Fix crash catcher
+
 *Make it more buggy
+
 *Make it slower
 
-DISCLAIMER:
+Screenshots
+--------------------------
+![1](/Screenshots/1.png "1")
+![2](/Screenshots/2.png "2")
+![3](/Screenshots/1.png "3")
+
+
+
+DISCLAIMER
+--------------------------
 
 THIS PROJECT IS IN NO WAY ASSOCIATED WITH OR SUPPORTED BY MICROSOFT CORPORATION. Internet Explorer IS A REGISTERED TRADEMARK BY MICROSOFT CORPORATION. ALL ARTWORK IS COPYRIGHT MICROSOFT CORPORATION. NO COPYRIGHT INFRINGEMENT IS INTENDED WITH THIS PROJECT.
 
