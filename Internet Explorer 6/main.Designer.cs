@@ -2,7 +2,7 @@
 // Name			: main.Designer.cs
 // Author		: codedit (codedit.me)
 // Version		: 1.0
-// Copyright	: Microsoft Coorporation?
+// Copyright	: Microsoft Corporation?
 // Website		: http://github.com/codedit/InternetExploder 
 // Description	: A webkit implementation of Internet Explorer
 //============================================================================
