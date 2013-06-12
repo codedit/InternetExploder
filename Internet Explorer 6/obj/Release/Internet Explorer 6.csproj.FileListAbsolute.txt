@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\bin\Release\Internet Explorer 6.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\bin\Release\Internet Explorer 6.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\bin\Release\Internet Explorer 6.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\bin\Release\WebKitBrowser.dll
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\bin\Release\WebKitBrowser.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\obj\Release\Internet_Explorer_6.CrashView.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\obj\Release\Internet_Explorer_6.main.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\obj\Release\Internet_Explorer_6.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\obj\Release\Internet Explorer 6.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\obj\Release\Internet Explorer 6.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2012\Projects\Internet Explorer 6\Internet Explorer 6\obj\Release\Internet Explorer 6.pdb
